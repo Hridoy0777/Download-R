@@ -1,4 +1,4 @@
-# INSTALL Download-R Programme
+# INSTALL Downloading Programme
 
 rm -rf Download-R
 
